@@ -8,6 +8,7 @@ This is an ExpressJs App build-in with ReactJs and Graphql. On this api, you can
 * Locations
 
 **Nota:** For now, just there Read function from CRUD functionability.
+
 **Nota:** You can check the Backend App with **Express** on [Rick and Morty Backend](https://github.com/DrakeRedfield/express.rickandmorty.aaba).
 
 ## Instalation
